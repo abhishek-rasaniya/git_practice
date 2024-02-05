@@ -1,0 +1,3 @@
+[submodule "SUBM/submodule-practice"]
+	path = SUBM/submodule-practice
+	url = git@github.com:abhishek-rasaniya/submodule-practice.git
